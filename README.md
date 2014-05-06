@@ -8,4 +8,4 @@ you can use `rake test` to test code. And you can type `rake` to run my default 
 
 # About
 
-Thanks to every one.
+you can see `problem.md` to know what is FizzBuzzWhizz.
